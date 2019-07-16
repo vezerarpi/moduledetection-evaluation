@@ -1,0 +1,8 @@
+cython
+jupyter
+scipy
+pandas
+numpy
+statsmodels
+scikit-learn
+git+https://github.com/jfrelinger/cython-munkres-wrapper
