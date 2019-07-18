@@ -1,5 +1,7 @@
 cython
 jupyter
+matplotlib
+fisher
 scipy
 pandas
 numpy
